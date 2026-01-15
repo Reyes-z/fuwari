@@ -2,11 +2,15 @@
 title: Markdown Extended Features
 published: 2023-01-01
 updated: 2024-11-29
-description: 'Markdown扩展语法支持'
-image: ''
-tags: [Demo, Example, Markdown, Fuwari]
-category: 'Examples'
-draft: false 
+description: Markdown扩展语法支持
+image: ""
+tags:
+  - Demo
+  - Example
+  - Markdown
+  - Fuwari
+category: Examples
+draft: true
 ---
 
 ## GitHub Repository Cards

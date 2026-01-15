@@ -2,9 +2,12 @@
 title: Markdown Example
 published: 2023-01-01
 description: Markdown语法示例
-tags: [Markdown, Blogging, Demo]
+tags:
+  - Markdown
+  - Blogging
+  - Demo
 category: Examples
-draft: false
+draft: true
 ---
 
 # An h1 header

@@ -2,9 +2,11 @@
 title: Include Video in the Posts
 published: 2023-01-01
 description: 嵌入视频示例
-tags: [Example, Video]
+tags:
+  - Example
+  - Video
 category: Examples
-draft: false
+draft: true
 ---
 
 Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.
