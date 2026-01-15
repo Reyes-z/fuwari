@@ -1,12 +1,13 @@
 ---
-title: github软件下载选择
-description: 软件版本选择办法
+title: 软件安装包命名含义
+description: 根据自身设备型号选择软件版本方法
 published: 2025-07-29
-tags: [Github,软件]
+tags:
+  - Github
+  - 软件
 category: 软件使用
 draft: false
 ---
-如何正确根据自身设备型号选择github中release软件版本
 
 在 GitHub 的 Releases 页面选择软件版本时，需重点考虑以下因素：
 

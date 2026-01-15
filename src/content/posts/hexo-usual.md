@@ -1,10 +1,11 @@
 ---
-title: 随便写写
-tags: [随便写的]
+title: 胡言乱语
+tags:
+  - 随便写的
 category: blog
-description: 随便写点
+description: 不知道什么时候写的碎碎念
 published: 2025-07-26
-draft: false 
+draft: false
 ---
 ## 最近又开始折腾这个博客了
 一看里面的文章只有四篇最早还是高三暑假写的，还是荒地状态。
