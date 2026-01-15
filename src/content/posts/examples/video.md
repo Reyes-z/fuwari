@@ -1,7 +1,7 @@
 ---
 title: Include Video in the Posts
-published: 2023-08-01
-description: This post demonstrates how to include embedded video in a blog post.
+published: 2023-01-01
+description: 嵌入视频示例
 tags: [Example, Video]
 category: Examples
 draft: false
