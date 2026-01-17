@@ -1,5 +1,5 @@
 ---
-title: hexo命令
+title: 常用hexo命令
 tags:
   - 博客
   - Hexo

@@ -1,11 +1,13 @@
 ---
-title: 博客主题优化记录
+title: 博客matery主题优化记录
 tags:
-  - 优化
+  - matery主题
+  - 主题优化
+  - 博客优化
 published: 2020-09-09
 category: blog
 draft: false
-description: 本博客网站的主题优化变更历史
+description: 本博客网站的matery主题优化变更历史
 ---
 
 ## 前言

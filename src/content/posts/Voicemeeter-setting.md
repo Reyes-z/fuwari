@@ -1,6 +1,6 @@
 ---
 title: Voicemeeter虚拟声卡软件的使用
-tags: [Voicemeeter,软件,声卡]
+tags: [Voicemeeter,软件,虚拟声卡]
 category: 软件使用
 image: 'https://img.202261.xyz/blog/202508/Voicemeeter_Banana-4.png'
 published: 2025-08-02

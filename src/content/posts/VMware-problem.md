@@ -1,6 +1,6 @@
 ---
 title: VMware虚拟机使用
-tags: [VMware虚拟机]
+tags: [软件,VMware虚拟机,Ubuntu]
 published: 2020-09-09
 category: 软件使用
 description: VMware虚拟机安装Ubuntu所产生的相关问题
