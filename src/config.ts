@@ -55,25 +55,25 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/web-avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Reyes",
-	bio: "岂能尽如人意，但求无愧于心",
+	bio: "岂能尽如人意 但求无愧我心",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "Bilibli",
+			icon: "fa6-brands:bilibili", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://space.bilibili.com/161066541",
 		},
 		{
 			name: "Steam",
 			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			url: "https://steamcommunity.com/profiles/76561198862924009/",
 		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com",
-		},
+		// {
+		// 	name: "GitHub",
+		// 	icon: "fa6-brands:github",
+		// 	url: "https://github.com",
+		// },
 	],
 };
 
