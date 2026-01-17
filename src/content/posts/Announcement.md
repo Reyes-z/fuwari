@@ -4,7 +4,7 @@ tags: [公告]
 published: 2021-10-20
 category: blog
 draft: false
-
+pinned: true
 ---
 # 2021.10
 

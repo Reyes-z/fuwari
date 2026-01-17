@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbb5403f164adf27",
+        "id": "3f2974b371f4aa68",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3ba624f6808ff1",
+            "id": "ffa2cbab4805ede4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "src/content/posts/blog-theme.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "blog-theme"
             }
           }
         ]
@@ -183,8 +183,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bb3ba624f6808ff1",
+  "active": "ffa2cbab4805ede4",
   "lastOpenFiles": [
+    "src/content/posts/time-line.md",
+    "README.md",
     "src/content/posts/hexoBlog-use.md",
     "src/content/posts/hexo-usual.md",
     "src/content/posts/github-download.md",
