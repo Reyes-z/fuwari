@@ -31,4 +31,4 @@ yarn.lock
 *.iml
 
 # obsidian
-.obsidian
+.obsidian/

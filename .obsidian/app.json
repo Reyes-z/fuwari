@@ -1,1 +1,9 @@
-{}
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "dist/",
+    "scripts/"
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "src/assets"
+}
