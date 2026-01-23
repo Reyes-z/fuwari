@@ -1,7 +1,7 @@
 ---
 title: 为fuwari文章添加置顶功能
 published: 2026-01-23
-description: 本网站为fuwari文章添加置顶功能的方法
+description: 为fuwari主题博客文章添加置顶功能的方法
 image: ""
 tags:
   - 博客
